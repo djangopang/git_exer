@@ -4,3 +4,5 @@ and than change it to see how git reacts to it
 after using 
 git add modify example.txt 
 we modified this file
+
+change again
