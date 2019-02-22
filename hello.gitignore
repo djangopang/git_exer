@@ -1,2 +1,3 @@
 *.xt
 /folder_to_ignore
+/public/storage

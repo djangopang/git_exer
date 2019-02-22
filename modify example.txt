@@ -5,4 +5,4 @@ after using
 git add modify example.txt 
 we modified this file
 
-change again	and again	and again	and again
+change again
