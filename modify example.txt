@@ -11,3 +11,5 @@ and here? And what do i do here.
 
 hh and this line is added
 
+dsada Somehow I can't manage to get difftool to work properly.
+
